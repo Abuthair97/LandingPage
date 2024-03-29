@@ -1,13 +1,4 @@
-# co2594edfaae3fe8a739e94b5
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
@@ -19,3 +10,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+<img width="1315" alt="Screenshot 2024-03-29 at 2 12 41 PM" src="https://github.com/Abuthair97/Scrimba-landingPage/assets/105582784/52f3a140-aade-47a7-95c3-3ec58ae666f1">
