@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-image: url(img/faded-office.png);
+    background-size:   cover;
+    background-repeat:  no-repeat;
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 200px;
+}
+h1{
+    color: #020202;
+    font-size: 70px;
+    margin: 100px 0 0px 100px ;
+}
+.para{
+    width: 400px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.underline{
+    border-bottom: 5px solid blue;
+}
+.btn{
+    padding: 18px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    margin: 30px 0 0px 120px ;
+    background-color: rgb(102, 165, 236);
+}
